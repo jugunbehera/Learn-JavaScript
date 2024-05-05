@@ -1,6 +1,6 @@
-//How to declare veriables
-//04 ways to create veriables
-
+/*How to declare veriables
+04 ways to create veriables
+*/
 const CompanyName = "Odessa Technology"
 var CompanyEmail = "OdessaCompany@gmail.com"
 let CompanyPassword = "787823445"
