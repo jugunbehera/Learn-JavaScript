@@ -13,6 +13,8 @@ to them.
     7.Symbol
     //Non-Primitive DataType
     8.Object
+    9.Arrey
+    10.Functions
 
     Note : "TypeOf" Operator is used to fidn the data type of a javaScript Veribales.
 */
